@@ -1,0 +1,20 @@
+{
+  "type": "LIGHTING",
+  "name": "LIGHTING",
+  "wifi": [
+    {
+      "ssid": "First Network",
+      "password": "First Password"
+    },
+    {
+      "ssid": "Second Network",
+      "password": "Second Password"
+    }
+  ],
+  "ota": {
+    "host": "http://webserver.com/domain",
+    "port": 80,
+    "id": "guest",
+    "pw": "password"
+  }
+}

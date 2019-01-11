@@ -1,0 +1,15 @@
+{
+  "smart": {
+	"on": 0,
+	"delay": 60,
+	"sonic": {
+		"Don": 170,
+		"Doff": 160,
+		"sampling": 3
+	},
+	"pir": {
+		"sampling": 100
+	}
+  },
+  "on": 1
+}
