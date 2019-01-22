@@ -14,6 +14,7 @@ Basic knowledge of PCB design and coding is perferred.
 | Web Server    | any notepad   | .php          | OTA purpose                |
 | PC Software   | Pyhton 3.X    | .py           | console purpose            |
 | ...           |               |               |                            |
+| ...           |               |               |                            |
 
 To initiate this project, An set of PCB example and code example for specific device are provided for reference.
 
